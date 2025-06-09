@@ -39,7 +39,7 @@ export const HeroSection = () => {
       </div>
 
       {/* Right Sectiuon*/}
-       <Spline scene="https://prod.spline.design/g15BBIQWef9LVFgk/scene.splinecode" />
+       <Spline className="absolute xl:right-[-28%] right-0 top-[-20%] lg:top-0" scene="https://prod.spline.design/g15BBIQWef9LVFgk/scene.splinecode" />
     </section>
   )
 }
